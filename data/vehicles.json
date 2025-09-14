@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Toyota ",
+        "type": "Car",
+        "price": "1250000",
+        "image": "https:\/\/cdn.bdstall.com\/product-image\/392163_800X800.webp"
+    },
+    {
+        "name": "Suzuki ",
+        "type": "Car",
+        "price": "1500000",
+        "image": "https:\/\/cdn.bdstall.com\/product-image\/giant_357105.jpg"
+    },
+    {
+        "name": "BMW X5",
+        "type": "Car",
+        "price": "3200000",
+        "image": "https:\/\/cdn.bdstall.com\/product-image\/392497_800X800.webp"
+    }
+]
